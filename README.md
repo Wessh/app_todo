@@ -1,16 +1,19 @@
 # app_todo
 
-A new Flutter project.
+Projeto de estudo. Onde foi criado um ToDo list.
 
-## Getting Started
+## Tecnologias usadas
 
-This project is a starting point for a Flutter application.
+- [get_it](https://pub.dev/packages/get_it)
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [equatable](https://pub.dev/packages/equatable)
+- [hive](https://pub.dev/packages/hive)
+- [hive_generator](https://pub.dev/packages/hive_generator)
+- [path_provider](https://pub.dev/packages/path_provider)
+- [provider](https://pub.dev/packages/provider)
+- [uuid](https://pub.dev/packages/uuid)
+  
+### Dev
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [mockito](https://pub.dev/packages/mockito)
+- [build_runner](https://pub.dev/packages/build_runner)
